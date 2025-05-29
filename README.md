@@ -17,4 +17,4 @@ A multi-tab Python code editor built using Tkinter.
 
 Download the source code or the setup file.
 
-![Screenshot](Screenshot 2025-05-29 161928.png)
+
